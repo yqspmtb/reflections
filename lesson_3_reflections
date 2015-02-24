@@ -8,3 +8,5 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?  It gives a point of reference for where you are entering the life-cycle of the project.  It also allows you to see where the owner of the fork left off, so that your changes are still relatable to where the project has moved.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?  In the past I did not think much of version control.  I would keep the master copy and update it when there was a needed change.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?  When I want to try to make changes, but want to revert to the master for sanity checking what I have done on the new branch.  It helps me to keep a working copy of the project while I am updating it. 
